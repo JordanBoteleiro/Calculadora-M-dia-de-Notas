@@ -1,2 +1,2 @@
-# Calculadora-M-dia-de-Notas
+# Calculadora-Media-de-Notas
 Média de  4 notas
